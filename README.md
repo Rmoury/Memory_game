@@ -124,4 +124,4 @@ A perfect game (minimum moves, fast time) scores close to the base maximum.
 
 ---
 
-*Built for  Mentor — Memory Card Game Project*
+*Built for fun — Memory Card Game Project*
